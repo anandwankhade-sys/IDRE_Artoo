@@ -1,0 +1,39 @@
+# Environment & credentials
+.env
+*.env.local
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Database
+data/artoo.db
+
+# Logs
+logs/*.jsonl
+logs/*.jsonl.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+_*.txt
+_*.xlsx
+artoo_vs_actual*.xlsx
+
+# JIRA cache
+jira_cache/
+multi_model_results/
+
+# Node
+node_modules/

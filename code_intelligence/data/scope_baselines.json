@@ -1,0 +1,27 @@
+{
+  "bug_fix": {
+    "avg_files": 3.0,
+    "p75_files": 5,
+    "count": 0
+  },
+  "feature": {
+    "avg_files": 7.0,
+    "p75_files": 12,
+    "count": 0
+  },
+  "refactor": {
+    "avg_files": 8.0,
+    "p75_files": 15,
+    "count": 0
+  },
+  "ui_change": {
+    "avg_files": 4.0,
+    "p75_files": 7,
+    "count": 0
+  },
+  "other": {
+    "avg_files": 5.0,
+    "p75_files": 9,
+    "count": 0
+  }
+}
